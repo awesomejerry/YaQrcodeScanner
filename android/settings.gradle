@@ -1,0 +1,3 @@
+rootProject.name = 'YaQrcodeScanner'
+
+include ':app'
