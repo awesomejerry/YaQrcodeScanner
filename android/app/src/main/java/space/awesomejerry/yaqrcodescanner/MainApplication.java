@@ -1,4 +1,4 @@
-package com.yaqrcodescanner;
+package space.awesomejerry.yaqrcodescanner;
 
 import android.app.Application;
 
